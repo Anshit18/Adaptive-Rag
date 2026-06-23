@@ -560,7 +560,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Anshit Singh**
+**Anshit Singh Rajput**
 - GitHub: [@Anshit18](https://github.com/Anshit18)
 - Project: [Adaptive RAG](https://github.com/Anshit18/Adaptive-Rag)
 
@@ -591,6 +591,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Last Updated**: March 5, 2026  
+**Last Updated**: June 23, 2026  
 **Status**: ✅ Production Ready  
 **Documentation**: ✅ Comprehensive
